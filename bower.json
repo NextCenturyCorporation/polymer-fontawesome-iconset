@@ -1,0 +1,31 @@
+{
+  "name": "polymer-fontawesome-iconset",
+  "version": "4.5.0",
+  "authors": [
+    "Thomas Schellenberg <thomas.schellenberg@nextcentury.com>"
+  ],
+  "description": "Font Awesome polymer iconset.  This is a copy of the old vangware/fontawesome-iconset repository.",
+  "main": "fa-all.html",
+  "keywords": [
+    "Font Awesome",
+    "Polymer",
+    "Icons",
+    "Icon Set",
+    "web-component",
+    "web-components"
+  ],
+  "dependencies": {
+    "iron-icon": "1 - 2",
+    "iron-icons": "1 - 2",
+    "iron-iconset-svg": "1 - 2",
+    "polymer": "1 - 2"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/NextCenturyCorporation/polymer-fontawesome-iconset",
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "package.json",
+    "update.js"
+  ]
+}
